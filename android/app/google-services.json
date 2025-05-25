@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "375403365836",
+    "firebase_url": "https://suvidha-sathi-2972c-default-rtdb.firebaseio.com",
+    "project_id": "suvidha-sathi-2972c",
+    "storage_bucket": "suvidha-sathi-2972c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375403365836:android:73596603627c811fa84969",
+        "android_client_info": {
+          "package_name": "com.example.suvidha_sathi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375403365836-k13f21405tno8mbfbf30qjn3e6qqi9dj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.suvidha_sathi",
+            "certificate_hash": "49804a21f201df7a760f77c5b51b6b685bf13fa5"
+          }
+        },
+        {
+          "client_id": "375403365836-ikshq2o52rs3ogl98k7700n91rrihp7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHuAFebLSv8wWTWkBTwOeKcGAFVSgT3Dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375403365836-ikshq2o52rs3ogl98k7700n91rrihp7u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "375403365836-0mkl9m6n31vghd97bdnfb0kpjc7qn4hi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.suvidhaSathi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
