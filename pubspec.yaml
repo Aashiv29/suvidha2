@@ -71,6 +71,8 @@ dependencies:
   line_icons: ^2.0.3
   # bloc: ^9.0.0
   flutter_bloc: ^9.1.1
+ 
+
   
 dev_dependencies:
   flutter_test:
@@ -116,12 +118,8 @@ flutter:
     - assets/ajeb.jpg
     - assets/hunuman.jpg
     - assets/pyarkanagma.jpg
-    - assets/tumhiho.mp3
-    - assets/shiv.mp3
-    - assets/hanumanchalisa.mp3
-    - assets/ajeebdastan.mp3
-    - assets/ekpyarkanagma.mp3
     - assets/music/
+    - assets/md.gif
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
 
